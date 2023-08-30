@@ -12,6 +12,7 @@
 		B5FF84822A9F5DC200DEB548 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5FF84812A9F5DC200DEB548 /* Preview Assets.xcassets */; };
 		B5FF848E2A9F63A200DEB548 /* FruitCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF848D2A9F63A200DEB548 /* FruitCardView.swift */; };
 		B5FF84902A9F648400DEB548 /* FructusApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF848F2A9F648400DEB548 /* FructusApp.swift */; };
+		B5FF84922A9F672500DEB548 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5FF84912A9F672500DEB548 /* StartButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B5FF84812A9F5DC200DEB548 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B5FF848D2A9F63A200DEB548 /* FruitCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitCardView.swift; sourceTree = "<group>"; };
 		B5FF848F2A9F648400DEB548 /* FructusApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FructusApp.swift; sourceTree = "<group>"; };
+		B5FF84912A9F672500DEB548 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				B5FF848D2A9F63A200DEB548 /* FruitCardView.swift */,
+				B5FF84912A9F672500DEB548 /* StartButtonView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5FF847D2A9F5DC100DEB548 /* ContentView.swift in Sources */,
+				B5FF84922A9F672500DEB548 /* StartButtonView.swift in Sources */,
 				B5FF848E2A9F63A200DEB548 /* FruitCardView.swift in Sources */,
 				B5FF84902A9F648400DEB548 /* FructusApp.swift in Sources */,
 			);
