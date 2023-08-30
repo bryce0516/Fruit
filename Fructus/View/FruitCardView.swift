@@ -69,6 +69,7 @@ struct FruitCardView: View {
       )
     )
     .cornerRadius(20)
+    .padding(.horizontal, 20)
   }
   
 }
@@ -77,6 +78,6 @@ struct FruitCardView_Previews: PreviewProvider {
   static var previews: some View {
     FruitCardView()
       .previewLayout(.fixed(width: 320, height: 640))
-      .ignoresSafeArea()
+//      .ignoresSafeArea()
   }
 }
