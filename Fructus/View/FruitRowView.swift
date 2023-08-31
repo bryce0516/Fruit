@@ -39,7 +39,6 @@ struct FruitRowView: View {
           .foregroundColor(Color.secondary)
       }
     }//: HSTACK
-    Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
   }
 }
 
